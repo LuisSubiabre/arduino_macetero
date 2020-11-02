@@ -6,5 +6,5 @@ Hacer uso del sensor de humedad de suelo y 3 diodos leds (rojo, verde y azul), d
 
 
 Circuito:
-![Alt text](/arduino_macetero/blob/main/macetero_bb.png?raw=true "Optional Title")
+![Alt text](/macetero_bb.png?raw=true "Optional Title")
 
